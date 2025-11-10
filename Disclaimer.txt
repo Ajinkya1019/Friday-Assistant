@@ -1,0 +1,15 @@
+⚠️ Disclaimer
+
+This project is provided for educational and research purposes only.
+
+This is a small & beginning-stage voice-controlled bot. 
+
+The bot can only perform basic function such as telling the Time, Open Whastapp on browser, Open Browser, Shutdown itself. 
+You can add other functions according to what you want. 
+
+The authentication phrase lies within the code however I am adding it here for ease. 
+AUTH PHRASE = "hello Friday"
+
+😁Also keep in mind whether it is a person or a bot always respect and talk politely as this bot will not understand commands if you are not respectful and polite towards it😁 
+
+#THIS BOT IS MADE IN SPYDER#
