@@ -1,2 +1,1 @@
 # Friday-Assistant
-# Friday-Assistant
